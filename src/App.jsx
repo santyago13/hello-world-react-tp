@@ -1,9 +1,11 @@
 import Mensaje from "./components/Mensaje"
 
 function App() {
+  const amigo = "friend";
+
   return (
-    <main className="m-4 text-center">
-      <Mensaje></Mensaje>
+    <main className="text-center fs-3 m-3">
+      <Mensaje amigo={amigo} />
     </main>
   );
 }
