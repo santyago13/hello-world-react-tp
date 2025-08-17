@@ -1,12 +1,35 @@
-# React + Vite
+# 📝 TP hello world React 1, 2 y 3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una pequeña aplicación de React que muestra un mensaje dinámico al hacer clic en un botón. El componente principal es `Mensaje`, que recibe un **prop** `amigo` y utiliza **state** para actualizar el mensaje al hacer clic.  
+---
 
-Currently, two official plugins are available:
+## 🌐 Deploy
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 Podés ver el proyecto en vivo acá:  
+[🔗 Ver aplicación desplegada](https://hello-world-tp.netlify.app/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Funcionalidades
+
+- ✅ Componente hijo que recibe props del componente padre.  
+- ✅ Uso de `useState` para manejar el estado del mensaje.   
+- ✅ Mensaje dinámico que aparece al hacer clic en un botón.  
+- ✅ Estilos básicos con Bootstrap.
+
+---
+
+## 🧪 Tecnologías usadas
+
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario.  
+- **JavaScript (ES6+)**: Lenguaje de programación principal del proyecto.  
+- **Bootstrap 5**: Framework de CSS para estilos y diseño responsive.  
+- **Vite** o **Create React App**: Herramienta para configurar y ejecutar la aplicación rápidamente.  
+- **HTML5 & CSS3**: Estructura y estilos básicos del proyecto.  
+
+---
+
+## 👨‍💻 Autor
+
+- **Nombre:** Robledo Garrido Santiago Andrés
+    
